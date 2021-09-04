@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    padding-left: 20px;
+    height: 90vh; 
+    max-width: 80%;
+    /* max-width:20%; */
+}
+
+label {
+    text-align: left;
+}
+
+.textarea label{
+    text-align: left;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
